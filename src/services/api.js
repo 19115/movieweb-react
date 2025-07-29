@@ -1,4 +1,4 @@
-// const API_KEY = "e08ac07204a52ed25b3c54c10464a563";
+
 const apikey = import.meta.env.VITE_API_KEY;
 const BASE_URL = "https://api.themoviedb.org/3";
 
